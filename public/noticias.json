@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "El descubrimiento de un nuevo planeta revoluciona la astronomía",
+    "contenido": "Un equipo internacional de astrónomos ha anunciado el descubrimiento de un exoplaneta con características similares a la Tierra, lo que abre nuevas posibilidades en la búsqueda de vida extraterrestre.",
+    "categoria": "Ciencia",
+    "autor": "Dra. Sofía Mendoza",
+    "fecha": "2024-05-08"
+  },
+  {
+    "titulo": "La economía mundial se enfrenta a un período de incertidumbre",
+    "contenido": "Los principales indicadores económicos sugieren una desaceleración del crecimiento global, lo que ha generado preocupación entre los expertos y líderes mundiales.",
+    "categoria": "Economía",
+    "autor": "Lic. Juan Pérez",
+    "fecha": "2024-05-07"
+  },
+  {
+    "titulo": "El cambio climático amenaza la biodiversidad en el Amazonas",
+    "contenido": "Un nuevo estudio revela que el aumento de las temperaturas y la deforestación están poniendo en peligro la supervivencia de numerosas especies en la selva amazónica.",
+    "categoria": "Medio Ambiente",
+    "autor": "Biól. Ana Rodríguez",
+    "fecha": "2024-05-06"
+  },
+  {
+    "titulo": "La tecnología 5G impulsa la transformación digital",
+    "contenido": "La implementación de la tecnología 5G está acelerando la adopción de nuevas soluciones digitales en diversos sectores, desde la industria hasta la salud y la educación.",
+    "categoria": "Tecnología",
+    "autor": "Ing. Carlos López",
+    "fecha": "2024-05-05"
+  },
+  {
+    "titulo": "El arte contemporáneo se abre a nuevas formas de expresión",
+    "contenido": "Artistas de todo el mundo están explorando nuevas técnicas y materiales para crear obras innovadoras que desafían los límites del arte tradicional.",
+    "categoria": "Arte y Cultura",
+    "autor": "Lic. María Sánchez",
+    "fecha": "2024-05-04"
+  },
+  {
+    "titulo": "El deporte femenino gana terreno en el escenario mundial",
+    "contenido": "Cada vez más mujeres están destacando en diversas disciplinas deportivas, lo que ha contribuido a aumentar la visibilidad y el apoyo al deporte femenino.",
+    "categoria": "Deportes",
+    "autor": "Periodista Laura Gómez",
+    "fecha": "2024-05-03"
+  },
+  {
+    "titulo": "La educación en línea se consolida como una alternativa viable",
+    "contenido": "La pandemia de COVID-19 aceleró la adopción de la educación en línea, y cada vez más instituciones educativas ofrecen programas y cursos en formato virtual.",
+    "categoria": "Educación",
+    "autor": "Dra. Elena Vargas",
+    "fecha": "2024-05-02"
+  },
+  {
+    "titulo": "La gastronomía peruana conquista paladares internacionales",
+    "contenido": "La cocina peruana se ha convertido en un referente mundial gracias a su diversidad de sabores, ingredientes y técnicas culinarias.",
+    "categoria": "Gastronomía",
+    "autor": "Chef Pedro Ramírez",
+    "fecha": "2024-05-01"
+  },
+  {
+    "titulo": "El turismo sostenible se abre camino en el sector",
+    "contenido": "Cada vez más viajeros y empresas turísticas están optando por prácticas sostenibles que minimicen el impacto ambiental y contribuyan al desarrollo de las comunidades locales.",
+    "categoria": "Turismo",
+    "autor": "Lic. Ana Torres",
+    "fecha": "2024-04-30"
+  },
+  {
+    "titulo": "La música urbana se consolida como un fenómeno global",
+    "contenido": "Géneros como el rap, el trap y el reguetón han ganado popularidad en todo el mundo, y sus artistas son referentes para millones de jóvenes.",
+    "categoria": "Música",
+    "autor": "Periodista Javier Castro",
+    "fecha": "2024-04-29"
+  }
+]

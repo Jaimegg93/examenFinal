@@ -1,0 +1,189 @@
+{
+  "ciudades": [
+    {
+      "nombre": "Madrid",
+      "fechas": [
+        {
+          "fecha": "2024-05-08",
+          "temperatura": {
+            "maxima": 25,
+            "minima": 15
+          },
+          "viento": {
+            "velocidad": 20,
+            "direccion": "Norte"
+          },
+          "lluvia": 0.2,
+          "sol": {
+            "salida": "06:00",
+            "puesta": "21:00"
+          }
+        },
+        {
+          "fecha": "2024-05-09",
+          "temperatura": {
+            "maxima": 28,
+            "minima": 18
+          },
+          "viento": {
+            "velocidad": 15,
+            "direccion": "Este"
+          },
+          "lluvia": 0.5,
+          "sol": {
+            "salida": "06:05",
+            "puesta": "20:55"
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Barcelona",
+      "fechas": [
+        {
+          "fecha": "2024-05-08",
+          "temperatura": {
+            "maxima": 22,
+            "minima": 16
+          },
+          "viento": {
+            "velocidad": 25,
+            "direccion": "Oeste"
+          },
+          "lluvia": 0.1,
+          "sol": {
+            "salida": "06:10",
+            "puesta": "20:50"
+          }
+        },
+        {
+          "fecha": "2024-05-09",
+          "temperatura": {
+            "maxima": 25,
+            "minima": 19
+          },
+          "viento": {
+            "velocidad": 20,
+            "direccion": "Sur"
+          },
+          "lluvia": 0.3,
+          "sol": {
+            "salida": "06:15",
+            "puesta": "20:45"
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Oviedo",
+      "fechas": [
+        {
+          "fecha": "2024-05-08",
+          "temperatura": {
+            "maxima": 19,
+            "minima": 8
+          },
+          "viento": {
+            "velocidad": 32,
+            "direccion": "Oeste"
+          },
+          "lluvia": 0.1,
+          "sol": {
+            "salida": "06:13",
+            "puesta": "20:58"
+          }
+        },
+        {
+          "fecha": "2024-05-09",
+          "temperatura": {
+            "maxima": 18,
+            "minima": 8
+          },
+          "viento": {
+            "velocidad": 20,
+            "direccion": "Sur"
+          },
+          "lluvia": 0.3,
+          "sol": {
+            "salida": "06:15",
+            "puesta": "20:45"
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Gijon",
+      "fechas": [
+        {
+          "fecha": "2024-05-08",
+          "temperatura": {
+            "maxima": 21,
+            "minima": 12
+          },
+          "viento": {
+            "velocidad": 25,
+            "direccion": "Oeste"
+          },
+          "lluvia": 0.1,
+          "sol": {
+            "salida": "06:10",
+            "puesta": "20:50"
+          }
+        },
+        {
+          "fecha": "2024-05-09",
+          "temperatura": {
+            "maxima": 20,
+            "minima": 12
+          },
+          "viento": {
+            "velocidad": 20,
+            "direccion": "Este"
+          },
+          "lluvia": 0.3,
+          "sol": {
+            "salida": "06:15",
+            "puesta": "20:45"
+          }
+        }
+      ]
+    },
+    {
+      "nombre": "Aviles",
+      "fechas": [
+        {
+          "fecha": "2024-05-08",
+          "temperatura": {
+            "maxima": 21,
+            "minima": 10
+          },
+          "viento": {
+            "velocidad": 25,
+            "direccion": "Este"
+          },
+          "lluvia": 0.1,
+          "sol": {
+            "salida": "06:10",
+            "puesta": "20:50"
+          }
+        },
+        {
+          "fecha": "2024-05-09",
+          "temperatura": {
+            "maxima": 21,
+            "minima": 11
+          },
+          "viento": {
+            "velocidad": 20,
+            "direccion": "Este"
+          },
+          "lluvia": 0.3,
+          "sol": {
+            "salida": "06:15",
+            "puesta": "20:45"
+          }
+        }
+      ]
+    }
+  ]
+}

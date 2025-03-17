@@ -1,0 +1,97 @@
+/* Layout.css */
+
+/* Colores */
+:root {
+   
+    --green-light: #C8E6C9; /* Verde claro */
+    --gray-dark: #333; /* Gris oscuro */
+    --gray-light: #f0f0f0; /* Gris claro */
+    --green-primary: #80C8AF; /* Verde más claro y menos saturado */
+    --gray-background: #f5f5f5; /* Fondo gris claro */
+    --green-dark: #427144; 
+    --yellow-dark: #d6b315; 
+    --yellow-light: #eee0a1; 
+    --orange-dark: #eeaa19; 
+    --orange-light: #f3d28b;
+    --pink-dark: #e412a5; 
+    --pink-light: #f8b4ef;
+}
+
+
+
+  
+  
+  /* Estilos generales */
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--gray-background);
+  }
+  
+  /* Header */
+  header {
+    background-color: var(--green-dark);
+    color: white;
+    padding: 1rem 0;
+  }
+  
+  header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  header li {
+    margin: 0 1rem;
+  }
+  
+  header a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Hero */
+  .hero {
+    padding: 2rem 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    color: var(--green-primary);
+  }
+  
+  .hero p {
+    color: var(--gray-dark);
+  }
+  
+  /* Footer */
+  footer {
+    background-color: var(--green-primary);
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Estilos eco opcionales */
+  /* Puedes agregar más estilos aquí para un aspecto más "eco" */
+  /* Por ejemplo: */
+  /* Imágenes con bordes redondeados */
+  img {
+    border-radius: 5px;
+  }
+  
+  /* Botones con estilo de hojas */
+  button {
+    background-color: var(--green-primary);
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
